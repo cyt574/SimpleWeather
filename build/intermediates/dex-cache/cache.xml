@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_09bb40b7b75ee3e4c301f4cb764f8220af5287d3\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_f01afef33dcc479c1754d86c56de403ebcd13f81\classes.dex" />
+    </item>
+    <item
+        jar="G:\Andoid\android-sdks\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_84b8d08125d7484edc08f75c39bb170bdc255159\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_7abe2d4a939e8848659d633aac0e40a90650635a\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_441386e413b0ca9a4c549d7932494d64c58f2f39\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_6b9b8cfaace622bb809f833a2addd812c1d293c5\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_a2e85746b827d66fe22eba983061bbaed6268fc0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\陈益堂\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_3cb5ef9305f995240505c91c54181033ed69b739\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_09d92db644ebbccd80a77dff9048a0df919322dd\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_a61c4f1e2d4c43e78ff10db2a24e046c4caa2665\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\libs\locSDK_6.23.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cff92d8446c1ac178a1440b926ff2a937c02b81">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.23_012e42bea08d1e03cd3945d1496cbd3fb18fa59f\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1f9473125a2b85436da4b5e9d27744e89cc60b6c">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7926566345b015154c51511da1b06cc1523195ba\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ad756e3d0ae9389e8fa201299b5c384eb9bcd08f">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_df2036205da48ce2f526eb38a10363a19436638f\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_8de3e46a8585e55c7d60c4845bf3998167ad0db2\classes.dex" />
+    </item>
+    <item
+        jar="F:\workspace\AndroidStudioProjects\SimpleWeather\app\libs\gson-2.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="F:\workspace\AndroidStudioProjects\SimpleWeather\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.5_04eb901cd19d390710e8e5d52feabeabe9ecb9b3\classes.dex" />
+    </item>
+
+</items>
